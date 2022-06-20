@@ -1,0 +1,162 @@
+body {
+	position: relative;
+width: 1440px;
+height: 1024px;
+
+/* Light blue/light-blue-100 */
+
+background: #F3F5FC;
+}
+
+#ahorcado{
+
+position: absolute;
+margin-left: 30%;
+top: 148px;
+}
+
+.logo{
+position: absolute;
+width: 120px;
+height: 48px;
+left: 40px;
+top: 40px;
+}
+
+footer{
+position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: blueviolet;
+  color: white;
+  text-align: center;
+
+}
+
+#horca{
+position: absolute;
+margin-left: auto;
+ 
+}
+
+#btn1{
+position: absolute;
+width: 317px;
+height: 114px;
+left: 561px;
+top: 402px;
+background: #0A3871;
+border-radius: 24px;
+
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+#btn2{
+position: absolute;
+width: 280px;
+height: 67px;
+left: 579px;
+top: 554px;
+border: 1px solid #0A3871;
+border-radius: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+align-items: center;
+text-align: center;
+color: #0A3871;
+}
+
+#in{
+position: absolute;
+width: 299px;
+height: 48px;
+left: 376px;
+top: 256px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 150%;
+}
+
+#adv{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+position: absolute;
+width: 200px;
+height: 18px;
+left: 376px;
+top: 667px;
+}
+
+#txtAdv{
+  font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+olor: #495057;
+}
+
+#btnes{
+  display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 688px;
+height: 67px;
+left: 376px;
+top: 701px;
+}
+
+#btn3{
+
+width: 332px;
+height: 67px;
+background: #0A3871;
+border-radius: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+align-items: center;
+text-align: center;
+color: #FFFFFF;
+}
+
+#btn4{
+  width: 332px;
+height: 67px;
+border: 1px solid #0A3871;
+border-radius: 24px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+align-items: center;
+color: #0A3871;
+}
